@@ -6,9 +6,6 @@ AI 도구의 사용량과 갱신 시각을 화면 구석의 작은 창으로 보
 
 ## 설치
 
-[Releases](../../releases/latest)에서 설치 파일을 받아 실행합니다.
-
-- `TokenDeck-Setup-<버전>.exe`: 개인용
-- `TokenDeck-Company-Setup-<버전>.exe`: 사내 배포용 (토큰을 쓰는 대체 호출과 전략 채팅 제외)
+[Releases](../../releases/latest)에서 `TokenDeck-Setup-<버전>.exe`를 받아 실행합니다.
 
 코드 서명이 없어 Windows 경고가 나올 수 있습니다. 출처를 확인했다면 `추가 정보`와 `실행`을 차례로 누릅니다. 사용 방법은 설치 후 트레이 메뉴의 `도움말`에서 볼 수 있습니다.
